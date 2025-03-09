@@ -68,8 +68,6 @@ if event.key == pygame.K_1:
 1. Make sure Python 3 and Pygame are installed.
 2. Run the Python file:
 ```bash
-python object_bounce.py
+python game.py
 ```
 3. Follow on-screen instructions to add objects.
-
-Enjoy bouncing objects and testing mutable lists in Python! 🚀
