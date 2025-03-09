@@ -34,6 +34,7 @@ This is a practical example of **list mutability** since the list grows or shrin
 The project is built using **Pygame** and basic Python structures. 
 Here are the primary resources referenced:
 - [Pygame Documentation](https://www.pygame.org/docs/)
+- [Pygame object Documentation](https://www.pygame.org/docs/tut/tom_games4.html?highlight=dx)
 - [Python List Documentation](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 
 ## Key Code Sections
