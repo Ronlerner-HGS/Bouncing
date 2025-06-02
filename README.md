@@ -1,3 +1,6 @@
+# FOR IMPROVED GAME GO to [See README2.md](README2.md)
+
+
 # Object Bounce Simulation
 
 This project is a simple **object bounce simulation game** built using **Pygame**. The goal of the project was to demonstrate the use of **mutable lists** in Python by allowing users to spawn multiple bouncing objects that persist and interact in real-time.
@@ -31,7 +34,7 @@ This is a practical example of **list mutability** since the list grows or shrin
 - The game loop continuously iterates through the `objects[]` list and updates/draws each object.
 
 ## Source Documentation
-The project is built using **Pygame** and basic Python structures. 
+The project is built using **Pygame** and basic Python structures.
 Here are the primary resources referenced:
 - [Pygame Documentation](https://www.pygame.org/docs/)
 - [Pygame object Documentation](https://www.pygame.org/docs/tut/tom_games4.html?highlight=dx)
