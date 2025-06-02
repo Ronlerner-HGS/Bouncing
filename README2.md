@@ -1,7 +1,3 @@
-Okay, Ron, I've reviewed your Python code and will now adjust the Markdown project description to make sure it accurately reflects the capabilities of your 3D bouncing balls simulation. I'll focus on ensuring the technical details are correct while keeping the writing style you prefer.
-
-Here's the revised Markdown:
-
 # 3D Bouncing Balls Simulation - Project Upgrade
 
 **Upgraded from:** 2D Object Bounce Simulation
