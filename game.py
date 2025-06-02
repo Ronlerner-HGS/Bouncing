@@ -40,7 +40,7 @@ class MovingObject:
             self.dx = -self.dx
             self.color = self.random_color()
         if self.y <= 0 or self.y + self.size >= HEIGHT:
-            self.dy = -self.dy
+            self.dy = -self.dy  
             self.color = self.random_color()
 
     def draw(self, screen): # (Source: pygame docs)
