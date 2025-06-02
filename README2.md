@@ -6,6 +6,8 @@
 How much better is this 3D bouncing ball project than the old 2D one? This project is a big step up from the old 2D bouncing shapes. It changed the project in 3 main ways; how it looks, how it works, and how smart the code is.
 
 ## Screenshot of results
+<img width="802" alt="image" src="https://github.com/user-attachments/assets/641c2dca-22db-4e39-97b3-db586f94b343" />
+
 <img width="795" alt="image" src="https://github.com/user-attachments/assets/6b2998af-b3aa-498a-aa63-ceffaabd75fc" />
 
 
